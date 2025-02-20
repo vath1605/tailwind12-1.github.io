@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.myBtn{
+    @apply w-28 h-14 text-white text-2xl rounded-lg font-bold mx-2 shadow-sm shadow-slate-400;
+}
