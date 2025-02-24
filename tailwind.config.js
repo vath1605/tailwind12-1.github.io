@@ -12,8 +12,21 @@ module.exports = {
         primary_color: [
           "rgb(138,180,248)"
         ],
-        pink:[
-
+        hovera:[
+          "#a9a9ab"
+        ]
+      },
+      height:{
+        navH:[
+          "75px"
+        ]
+      },
+      backgroundColor:{
+        trans:[
+          "#a9a9ab"
+        ],
+        bga:[
+          "#d0d0d1"
         ]
       }
     },

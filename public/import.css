@@ -5,3 +5,6 @@
 .myBtn{
     @apply w-28 h-14 text-white text-2xl rounded-lg font-bold mx-2 shadow-sm shadow-slate-400;
 }
+.hoverLi{
+    @apply font-bold px-6 py-2 bg-transparent hover:bg-bga-0 hover:text-black ease-linear transition-all text-white rounded-full;
+}
