@@ -19,6 +19,18 @@ module.exports = {
       height:{
         navH:[
           "75px"
+        ],
+        divH:[
+          "635px"
+        ],
+        sec1:[
+          "15%"
+        ],
+        sec2:[
+          "40%"
+        ],
+        sec3:[
+          "45%"
         ]
       },
       backgroundColor:{
@@ -27,6 +39,12 @@ module.exports = {
         ],
         bga:[
           "#d0d0d1"
+        ],
+        dark:[
+          "rgb(40,45,53)"
+        ],
+        textBg:[
+          "rgb(84,93,102)"
         ]
       }
     },

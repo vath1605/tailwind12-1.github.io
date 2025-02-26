@@ -8,3 +8,6 @@
 .hoverLi{
     @apply font-bold px-6 py-2 bg-transparent hover:bg-bga-0 hover:text-black ease-linear transition-all text-white rounded-full;
 }
+.card{
+    @apply xl:w-1/3 lg:w-1/3 md:w-1/2 sm:w-2/3 p-2 h-full;
+}
